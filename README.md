@@ -1,2 +1,9 @@
-# loqma-downloads
-Official download releases for the recovered Loqma Android app.
+# لقمة الجديدة
+
+نسخ تنزيل تطبيق لقمة المعدّل.
+
+[افتح صفحة إصدارات التطبيق](https://github.com/tarekdev33-ops/loqma-downloads/releases) ثم اضغط ملف `Loqma-3.2.1.apk` ضمن Assets.
+
+الإصدار 3.2.1: حجم الملف 96 ميغابايت، Android 7 أو أحدث، ARM64.
+
+تُثبَّت النسخة باسم «لقمة الجديدة» بجانب التطبيق الأصلي. وتُحدِّث النسخة المعدّلة 3.2.0 مباشرة إن كانت مثبتة.
